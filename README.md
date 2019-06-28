@@ -1,4 +1,4 @@
-# Machine Learning Project
+﻿# Machine Learning Project
 Having the ability to diagnose breast cancer in its early stages has been the focus of many researches in the last decade. Although many strides have been achieved in this area, there is still a long way to go before prevention and early detection is achieved in most cases. Over forty thousand women are expected to die from breast cancer in 2019 based on predictive analytics. But as technology moves in the right direction, our team is confident that machine learning models will be able to contribute to this effort. 
 
 The statistics state that “Uninsured women who were diagnosed with breast cancer were 60% more likely to die from the disease… Uninsured women were also nearly almost 3 times more likely to be diagnosed with a later stage of the disease, compared to women who had health insurance.”
@@ -24,3 +24,8 @@ The following features were analyzed:
 While wrangling the data, we extracted the features from the list above that were not good indicators of either diagnosis and therefore would not assist in the predictive process of our machine learning model. 
 
 Below is our structure model that shows our overall process.
+
+
+
+
+Here I leave the other repository with the complete code of the project: https://github.com/lmiranda1107/ml_final_project/
