@@ -11,6 +11,7 @@ Data Summary:
 We gathered data that includes test results of a Fine Needle Aspiration Biopsy (FNA) perfomed on over 500 subjects. The results included the final diagnosis - malignant or benign - from the tumors studied. 
 
 The following features were analyzed: 
+
     - radius 
     - texture                 
     - perimeter               
@@ -27,5 +28,7 @@ While wrangling the data, we extracted the features from the list above that wer
 Below is our structure model that shows our overall process.
 
  ![Img](https://github.com/Carmenates88/HFC_BreastCancer-github.io/blob/master/Resources/image/describ.png)
-
+ 
+ 
+Link to the Project's website:https://carmenates88.github.io/HFC_BreastCancer-github.io/
 Here I leave the other repository with the complete code of the project: https://github.com/lmiranda1107/ml_final_project/
