@@ -27,8 +27,7 @@ While wrangling the data, we extracted the features from the list above that wer
 Below is our structure model that shows our overall process.
 
 <p align="center">
- <img src=""../Resources/image/describ.png"="350" title="hover text">
- <img src=""../Resources/image/describ.png"" width="350" alt="accessibility text">
+  <img src=""../Resources/image/describ.png"" width="350" alt="accessibility text">
 </p>
 
 Here I leave the other repository with the complete code of the project: https://github.com/lmiranda1107/ml_final_project/
