@@ -26,6 +26,6 @@ While wrangling the data, we extracted the features from the list above that wer
 
 Below is our structure model that shows our overall process.
 
- ![Img](../Resources/image/describ.png)
+ ![Img](https://github.com/Carmenates88/HFC_BreastCancer-github.io/blob/master/Resources/image/describ.png)
 
 Here I leave the other repository with the complete code of the project: https://github.com/lmiranda1107/ml_final_project/
