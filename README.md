@@ -11,7 +11,7 @@ Data Summary:
 We gathered data that includes test results of a Fine Needle Aspiration Biopsy (FNA) perfomed on over 500 subjects. The results included the final diagnosis - malignant or benign - from the tumors studied. 
 
 The following features were analyzed: 
-    - radius                
+    - radius 
     - texture                 
     - perimeter               
     - area                    
@@ -23,5 +23,12 @@ The following features were analyzed:
     - fractal_dimension       
 
 While wrangling the data, we extracted the features from the list above that were not good indicators of either diagnosis and therefore would not assist in the predictive process of our machine learning model. 
+
+Below is our structure model that shows our overall process.
+
+<p align="center">
+ <img src=""../Resources/image/describ.png"="350" title="hover text">
+ <img src=""../Resources/image/describ.png"" width="350" alt="accessibility text">
+</p>
 
 Here I leave the other repository with the complete code of the project: https://github.com/lmiranda1107/ml_final_project/
